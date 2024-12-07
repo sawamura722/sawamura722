@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Wongwarun Boonkaew!
-💻 Aspiring Full-Stack Developer | Software Engineer<br>🎓 Undergraduate in Information Technology at Kasetsart University, Thailand<br>🌐 Passionate about website development and constantly learning new skills in the field.<br><br>I'm dedicated to building scalable and user-friendly web applications, and I'm always excited to take on new challenges and improve my coding skills! 🚀
+💻 Aspiring Full-Stack Developer | Software Engineer | Software Developer<br>🎓 Undergraduate in Information Technology at Kasetsart University, Thailand<br>🌐 Passionate about website development and constantly learning new skills in the field.<br><br>I'm dedicated to building scalable and user-friendly web applications, and I'm always excited to take on new challenges and improve my coding skills! 🚀
 
 
 ## 🌐 Socials
