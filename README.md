@@ -1,6 +1,5 @@
 # 💫 Hi, I'm Wongwarun Boonkaew!
-💻 Aspiring Full-Stack Developer | Software Engineer | Software Developer<br>🎓 Undergraduate in Information Technology at Kasetsart University, Thailand<br>🌐 Passionate about website development and constantly learning new skills in the field.<br><br>I'm dedicated to building scalable and user-friendly web applications, and I'm always excited to take on new challenges and improve my coding skills! 🚀
-
+💻 Full-Stack Developer | Software Developer<br>🎓 Undergraduate in Information Technology at Kasetsart University, Thailand<br>
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/InsurgenceTH) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sawa_murax) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wongwarun-boonkaew) 
