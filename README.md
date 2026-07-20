@@ -1,4 +1,4 @@
-# Sawadee, I'm Wongwarun Boonkaew!
+# Hi, I'm Wongwarun Boonkaew!
 💻 Full-Stack Developer | Software Developer<br>🎓 Graduated from Information Technology at Kasetsart University, Thailand<br>
 
 # 💻 Tech Stack
