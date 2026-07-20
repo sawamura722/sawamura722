@@ -1,8 +1,5 @@
-# 💫 Hi, I'm Wongwarun Boonkaew!
-💻 Full-Stack Developer | Software Developer<br>🎓 Undergraduate in Information Technology at Kasetsart University, Thailand<br>
-
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/InsurgenceTH) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sawa_murax) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wongwarun-boonkaew) 
+# Sawadee, I'm Wongwarun Boonkaew!
+💻 Full-Stack Developer | Software Developer<br>🎓 Graduated from Information Technology at Kasetsart University, Thailand<br>
 
 # 💻 Tech Stack
 ## Frontend
